@@ -1,2 +1,3 @@
 # typings-react-spinkit
-react-spinkit.d.ts
+
+This is type definition for [KyleAMathews/react-spinkit](https://github.com/KyleAMathews/react-spinkit).
